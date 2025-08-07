@@ -20,3 +20,13 @@ This repository contains the IMY 220 project developed by Jerusha Thaver. The pr
 ## Author
 
 Jerusha Thaver
+
+## FigmaWireframe
+
+To view the project documentation as a PDF, [click here to download the PDF](IMY220-Wireframe.pdf) or open it with your preferred PDF viewer.
+
+
+
+
+
+
