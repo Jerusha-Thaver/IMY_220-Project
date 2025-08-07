@@ -3,11 +3,11 @@
 
 This repository contains the IMY 220 project developed by Jerusha Thaver. The project demonstrates concepts and skills learned in the IMY 220 course.
 
-## Features
+## Three Deliverables
 
-- User-friendly interface
-- Core functionalities as per course requirements
-- Well-structured and documented code
+- Wireframe Prototype
+- Frontend development
+- Backend development
 
 ## Getting Started
 
@@ -20,6 +20,7 @@ This repository contains the IMY 220 project developed by Jerusha Thaver. The pr
 ## Author
 
 Jerusha Thaver
+u23686376
 
 ## FigmaWireframe
 
